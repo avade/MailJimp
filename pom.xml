@@ -51,7 +51,7 @@
   </modules>
 
   <properties>
-    <spring.version>5.2.19.RELEASE</spring.version>
+    <spring.version>5.3.38</spring.version>
   </properties>
 
   <dependencies>
